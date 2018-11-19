@@ -1,6 +1,6 @@
 ## Warning:
 
-This is old version of ex2D (v1.x).
+This is old version of ex2D (v1.2.8).
 
 The ex2D v2.+ is now on beta test, and can be download from http://www.ex-dev.com/ex2d.
 If you are ex2D Pro user, you can get the access to ex2D v2.+ repository.
